@@ -1,0 +1,24 @@
+start the fake json server by navigating to this folder .\db.json
+
+run this command to start the server:
+
+json-server --watch .\db.json --port 3004
+
+Manually typing 'Ctrl+C' in the terminal will stop the server
+
+
+programatically: 
+
+[ClassCleanup]
+        public static void AfterAllTests()
+        {
+            Process process = new Process();
+            process.Close();
+        }
+
+
+
+   setforegroundwindow(mainwindowhandle);
+    //important - wait for the window to regain focus
+    thread.sleep(300); 
+    sendkeys.send("^c");

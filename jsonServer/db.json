@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Pistols",
+      "author": "John Wayne"
+    },
+    {
+      "id": 2,
+      "title": "SMGs",
+      "author": "John Wick"
+    },
+    {
+      "id": 3,
+      "title": "Rifles",
+      "author": "John Constantine"
+    },
+    {
+      "id": "4",
+      "title": "Shotguns",
+      "author": "Dean"
+    },
+    {
+      "id": "5",
+      "title": "knives",
+      "author": "Bobby"
+    },
+    {
+      "id": "7",
+      "title": "Explosives",
+      "author": "Carl"
+    },
+    {
+      "id": "8",
+      "title": "Comms",
+      "author": "Rufus"
+    },
+    {
+      "id": "9",
+      "title": "Grace",
+      "author": "Castiel"
+    },
+    {
+      "id": "10",
+      "title": "Curses",
+      "author": "Crowley"
+    },
+    {
+      "id": "6",
+      "title": "Witchcraft",
+      "author": "Ruby"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "What is the best cleaning kit?",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Are the mags of the Uzzi and Pharo interchangable?",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "Is the a scope that does not reflect?",
+      "postId": 3
+    }
+  ],
+  "profile": {
+    "name": "Sam",
+    "postId": "2"
+  }
+}

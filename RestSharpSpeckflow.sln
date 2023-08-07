@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpSpeckflow", "RestSharpSpeckflow.csproj", "{9FC7E027-F229-4A52-9858-4F62D77F74DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC7E027-F229-4A52-9858-4F62D77F74DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC7E027-F229-4A52-9858-4F62D77F74DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC7E027-F229-4A52-9858-4F62D77F74DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC7E027-F229-4A52-9858-4F62D77F74DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A9B2A3C-150E-4D3E-BD2B-C7D45F2F7BF0}
+	EndGlobalSection
+EndGlobal
